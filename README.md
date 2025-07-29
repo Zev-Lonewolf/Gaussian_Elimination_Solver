@@ -25,7 +25,7 @@ It demonstrates core numerical methods used to solve systems of linear equations
 1. Run the script:
 
     ```bash
-    python src/solver.py
+    python src/cody.py
     ```
 
 2. Follow the prompts:
