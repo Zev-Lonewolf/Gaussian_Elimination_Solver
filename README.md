@@ -15,8 +15,7 @@ A simple Python project to solve linear systems using
 
 ## 📚 About
 
-This project was developed as part of a university assignment for the **Linear Algebra** course at UFMT.  
-It demonstrates core numerical methods used to solve systems of linear equations and emphasizes user interaction via the command line.
+This project was developed as part of a university assignment for the **Linear Algebra** course at UFMT. It demonstrates core numerical methods used to solve systems of linear equations and emphasizes user interaction via the command line.
 
 ---
 
